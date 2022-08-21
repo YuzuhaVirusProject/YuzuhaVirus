@@ -1,0 +1,4 @@
+﻿[*.{cs,vb}]
+
+# IDE0060: 未使用のパラメーターを削除します
+dotnet_diagnostic.IDE0060.severity = none

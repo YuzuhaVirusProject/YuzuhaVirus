@@ -1,0 +1,9 @@
+C:\Users\uruwj\Downloads\YuzuhaVirus\YuzuhaVirus\obj\Debug\YuzuhaVirus.csproj.AssemblyReference.cache
+C:\Users\uruwj\Downloads\YuzuhaVirus\YuzuhaVirus\obj\Debug\YuzuhaVirus.Properties.Resources.resources
+C:\Users\uruwj\Downloads\YuzuhaVirus\YuzuhaVirus\obj\Debug\YuzuhaVirus.csproj.GenerateResource.cache
+C:\Users\uruwj\Downloads\YuzuhaVirus\YuzuhaVirus\obj\Debug\YuzuhaVirus.csproj.CoreCompileInputs.cache
+C:\Users\uruwj\Downloads\YuzuhaVirus\YuzuhaVirus\bin\Debug\YuzuhaVirus.exe.config
+C:\Users\uruwj\Downloads\YuzuhaVirus\YuzuhaVirus\bin\Debug\YuzuhaVirus.exe
+C:\Users\uruwj\Downloads\YuzuhaVirus\YuzuhaVirus\bin\Debug\YuzuhaVirus.pdb
+C:\Users\uruwj\Downloads\YuzuhaVirus\YuzuhaVirus\obj\Debug\YuzuhaVirus.exe
+C:\Users\uruwj\Downloads\YuzuhaVirus\YuzuhaVirus\obj\Debug\YuzuhaVirus.pdb
